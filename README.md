@@ -1,8 +1,7 @@
 <div align="center">
 
 # Docker Nginx Static Website
-
-## [Subscribe](https://www.youtube.com/@dheeraj-choudhary?sub_confirmation=1) to learn more About Artificial-Intellegence, Machine-Learning, Cloud & DevOps. ❤
+A beginner-friendly Docker project that demonstrates how to containerize and deploy a static HTML website using Nginx web server. Perfect for DevOps and Cloud engineers learning Docker fundamentals.
 
 ![alt text](<ArchitectureDiagram.png>)
 
@@ -13,6 +12,8 @@
 <a href="https://www.buymeacoffee.com/Dheeraj3" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="50">
 </a>
+
+## [Subscribe](https://www.youtube.com/@dheeraj-choudhary?sub_confirmation=1) to learn more About Artificial-Intellegence, Machine-Learning, Cloud & DevOps.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dheeraj-choudhary/" target="_blank">
@@ -25,8 +26,6 @@
 </p>
 
 </div>
-
-A beginner-friendly Docker project that demonstrates how to containerize and deploy a static HTML website using Nginx web server. Perfect for DevOps and Cloud engineers learning Docker fundamentals.
 
 ## 📋 Table of Contents
 
