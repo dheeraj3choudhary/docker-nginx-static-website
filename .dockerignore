@@ -1,0 +1,47 @@
+# .dockerignore - Excludes files from Docker build context
+# This reduces build context size and speeds up image builds
+
+# Git version control files - not needed in the container
+.git
+.gitignore
+.gitattributes
+
+# Documentation files - not required in the final image
+README.md
+LICENSE
+*.md
+
+# Docker-related files - don't copy Docker files into the image
+Dockerfile
+docker-compose.yml
+.dockerignore
+
+# Environment files - may contain sensitive data, handled separately
+.env
+.env.*
+!.env.example
+
+# IDE and editor files - development tools not needed in production
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# CI/CD configuration - not needed in the container
+.github/
+.gitlab-ci.yml
+.travis.yml
+Jenkinsfile
+
+# Temporary and cache files
+*.log
+*.tmp
+.cache/
+temp/
+tmp/
+
+# Node modules and dependency directories (if you later add build tools)
+node_modules/
+npm-debug.log*
