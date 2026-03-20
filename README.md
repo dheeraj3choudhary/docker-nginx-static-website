@@ -3,7 +3,8 @@
 # Docker Nginx Static Website
 A beginner-friendly Docker project that demonstrates how to containerize and deploy a static HTML website using Nginx web server. Perfect for DevOps and Cloud engineers learning Docker fundamentals.
 
-![alt text](<ArchitectureDiagram.png>)
+<img width="1280" height="720" alt="Docker Essentials (8)" src="https://github.com/user-attachments/assets/d4097ece-242d-4fcc-b29e-5bcd841de905" />
+
 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
